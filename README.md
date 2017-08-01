@@ -11,8 +11,6 @@ The compiled `gGMMSP_demo.exe` supports only Windows for now.
 
 # Demo
 
-
-
 ```cmd
 > src\gGMMSP_demo.exe images\320p.png 16
 ```
@@ -22,6 +20,6 @@ The segmented result is shown below.
 ![](result/gvL.png)
 
 
+# Contact
 
-
-
+If you have any questions, please create an issue in this repository. 
