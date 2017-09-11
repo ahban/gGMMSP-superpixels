@@ -7,7 +7,6 @@ This is a real-time implementation of the algorithm GMMSP which is a superpixel 
 
 You have to make sure you have a GPU that support CUDA and has a compute capability >= 3.0
 
-The compiled `gGMMSP_demo.exe` supports only Windows for now.
 
 # Demo
 
