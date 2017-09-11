@@ -6,7 +6,7 @@ close all
 
 addpath src
 
-image_name = 'images\240p.png';
+image_name = 'images/240p.png';
 
 image = imread(image_name);
 
