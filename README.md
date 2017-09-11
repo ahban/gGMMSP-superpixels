@@ -10,8 +10,10 @@ You have to make sure you have a GPU that support CUDA and has a compute capabil
 
 # Demo
 
-```cmd
-> src\gGMMSP_demo.exe images\320p.png 16
+Just run the demo script.
+
+```matlab
+> demo
 ```
 
 The segmented result is shown below.
