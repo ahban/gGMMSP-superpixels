@@ -3,7 +3,7 @@
 
 This is a real-time implementation of the algorithm GMMSP which is a superpixel segmentation algorithm with high accuracy.
 
-# Run
+# Requirements
 
 You have to make sure your PC meet the following requirments:
 - At least one GPU that supports CUDA (e.g. GTX 1080, GTX 1070, GTX 1060)
