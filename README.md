@@ -23,6 +23,12 @@ The segmented result is shown below.
 
 ![](result/gvL.png)
 
+# Help
+
+If you want to know how to call the core function of `mx_gGMMSP`, just call it without any arguments.
+```matlab
+> mx_gGMMSP
+```
 
 # Contact
 
