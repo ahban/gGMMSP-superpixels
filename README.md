@@ -5,7 +5,10 @@ This is a real-time implementation of the algorithm GMMSP which is a superpixel 
 
 # Run
 
-You have to make sure you have a GPU that support CUDA and has a compute capability >= 3.0
+You have to make sure your PC meet the following requirments:
+- At least one GPU that supports CUDA
+- Compute Capabilities >= 3.0
+- The lastest GPU driver
 
 
 # Demo
